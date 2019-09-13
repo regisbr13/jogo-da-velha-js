@@ -1,0 +1,41 @@
+.text-center, tr {
+    text-align: center;
+    font-size: 60px
+}
+
+.table-border {
+    border: 3px solid black;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.td-border, td {
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.celula {
+    width: 80px;
+    height: 80px
+}
+
+.vencedor {
+    font-size: 50px;
+    text-align: center;
+    background-color: green;
+    color: white;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 0;
+    width: 800px
+}
+
+.botao {
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#jogadorAtual {
+    margin-bottom: 0px
+}
